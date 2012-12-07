@@ -1,0 +1,9 @@
+
+=== 1.0.0
+Initial release of the bol.com scraper
+- Support scraping bol.com for dutch movies/dvds, mainly useful for kiddy dvd's that cannot be found on regular movie sites
+- Gets thumb image from bol.com if available.
+- Option to add movies to a set by default (ie. all disney movies will be added to the 'Disney' set)
+- Option to add movies to a genre by default
+
+- TODO: Find a good source for fanart..
